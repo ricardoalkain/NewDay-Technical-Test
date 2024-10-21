@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "diamond": {
+      "commandName": "Project",
+      "commandLineArgs": "g"
+    }
+  }
+}
